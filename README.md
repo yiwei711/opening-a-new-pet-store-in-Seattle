@@ -1,1 +1,1 @@
-# opening-a-new-pet-store-in-Seattle
+# IBM-capstone-project
